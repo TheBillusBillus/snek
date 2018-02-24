@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+C:\Users\2019060\Google Drive\Coding\Python\.metadata\.plugins\org.eclipse.jdt.core
+1170218313.index
+827088722.index
+856217555.index
+3080265670.index
